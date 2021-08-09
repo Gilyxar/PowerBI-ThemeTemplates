@@ -89,6 +89,25 @@
 				}],
 				"plotArea": [{
 					"transparency": 20
+				}],
+				"title": [{
+					"show": true,
+					"titleWrap": true,
+					"fontColor": {"solid": {"color": "#333333"}},
+					"background": {"solid": {"color": "#FFFFFF"}},
+					"fontSize": "12",
+					"alignment": "Center",
+					"fontFamily": "Seqoe UI Light"
+				}],
+				"background": [{
+					"show": true,
+					"color": {"solid": {"color": "#FFFFFF"}}
+				}],
+				"lockAspect": [{
+					"show": true
+				}],
+				"visualHeader": [{
+					"show": true
 				}]
 			}
 		}
